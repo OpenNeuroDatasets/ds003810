@@ -8,7 +8,8 @@
     "EEGChannelCount": 15,
     "RecordingType": "continuous",
     "SamplingFrequency": 125,
-    "SoftwareFilters": "n/a"
+    "SoftwareFilters": "n/a",
+    "RecordingType": "continuous"
 
 
 }
