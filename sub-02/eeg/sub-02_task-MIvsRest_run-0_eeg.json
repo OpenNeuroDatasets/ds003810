@@ -8,9 +8,7 @@
     "EEGChannelCount": 15,
     "RecordingType": "continuous",
     "SamplingFrequency": 125,
-    "SoftwareFilters": "n/a",
-    "AcquisitionFilter": "0.5 - 45 Hz, 3er order Butterworth"
-
+    "SoftwareFilters": "n/a"
 
 
 }

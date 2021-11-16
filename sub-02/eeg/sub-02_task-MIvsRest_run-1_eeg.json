@@ -9,8 +9,7 @@
     "RecordingType": "continuous",
     "SamplingFrequency": 125,
     "SoftwareFilters": "n/a",
-    "RecordingType": "continuous",
-    "AcquisitionFilter": "0.5 - 45 Hz, 3er order Butterworth"
+    "RecordingType": "continuous"
 
 
 
